@@ -1,0 +1,59 @@
+{
+    "66c8a1acd14dd370799e8bb8": {
+        "QuestId": "66c8a1acd14dd370799e8bb8",
+        "Conditions": [
+            {
+                "ConditionId": "66c8a4207939bb0b03fbd53a",
+                "ConditionType": "OverEncumberedTimeInSeconds",
+                "Locations": [
+                    "any"
+                ]
+            }
+        ]
+    },
+    "66c8b497a756f800b530a071": {
+        "QuestId":"66c8b497a756f800b530a071",
+        "Conditions":[
+            {
+                "ConditionId": "66c8b8148a5ca21e986773c6",
+                "ConditionType": "Die",
+                "DamageTypes": ["Btr"],
+                "Locations": [
+                    "any"
+                ]
+            },
+            {
+                "ConditionId": "66c8b8148a5ca21e986773c7",
+                "ConditionType": "Die",
+                "DamageTypes": ["Fall"],
+                "Locations": [
+                    "any"
+                ]
+            },
+            {
+                "ConditionId": "66c8b8148a5ca21e986773c8",
+                "ConditionType": "Die",
+                "DamageTypes": ["Stimulator"],
+                "Locations": [
+                    "any"
+                ]
+            },
+            {
+                "ConditionId": "66c8b8148a5ca21e986773c9",
+                "ConditionType": "Die",
+                "DamageTypes": ["Landmine"],
+                "Locations": [
+                    "any"
+                ]
+            },
+            {
+                "ConditionId": "66c8b8148a5ca21e986773d0",
+                "ConditionType": "Die",
+                "DamageTypes": ["Flame"],
+                "Locations": [
+                    "any"
+                ]
+            }
+        ]
+    }
+}

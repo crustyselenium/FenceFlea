@@ -1,0 +1,277 @@
+[
+  {
+    "ZoneId": "fenceFleaZB016Woods",
+    "ZoneName": "fenceFleaZB016Woods",
+    "ZoneLocation": "Woods",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-386.6053",
+      "Y": "3.004585",
+      "Z": "14.08205",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1.5",
+      "Y": "2",
+      "Z": "2.5",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "fenceFleaScavTowerWoods",
+    "ZoneName": "fenceFleaScavTowerWoods",
+    "ZoneLocation": "Woods",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "219.5944",
+      "Y": "20.89909",
+      "Z": "-706.5112",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.186524",
+      "Z": "0",
+      "W": "0.9824504"
+    },
+    "Scale": {
+      "X": "2",
+      "Y": "3.25",
+      "Z": "6",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "fenceFleaBuyStashMines",
+    "ZoneName": "fenceFleaBuyStashMines",
+    "ZoneLocation": "Woods",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "327.6682",
+      "Y": "23.3942",
+      "Z": "-493.7112",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.08063389",
+      "Z": "0",
+      "W": "-0.9967438"
+    },
+    "Scale": {
+      "X": "3.25",
+      "Y": "1.25",
+      "Z": "14",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "fenceFleaZB014Woods",
+    "ZoneName": "fenceFleaZB014Woods",
+    "ZoneLocation": "Woods",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "447.2455",
+      "Y": "-13.74539",
+      "Z": "61.35667",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "4.5",
+      "Y": "1",
+      "Z": "7",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "fenceFleaZB012Customs",
+    "ZoneName": "fenceFleaZB012Customs",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "471.8036",
+      "Y": "1.658523",
+      "Z": "-121.7102",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1.5",
+      "Y": "4.75",
+      "Z": "1.5",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "fenceFleaZB011Customs",
+    "ZoneName": "fenceFleaZB011Customs",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "638.9616",
+      "Y": "3.654672",
+      "Z": "-138.199",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1",
+      "Y": "6.25",
+      "Z": "1",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "fenceFleaZB013Customs",
+    "ZoneName": "fenceFleaZB013Customs",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "200.1631",
+      "Y": "-2.319649",
+      "Z": "-147.4994",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "-0.0005946492",
+      "Y": "-0.05451126",
+      "Z": "0.01089187",
+      "W": "0.9984536"
+    },
+    "Scale": {
+      "X": "2.75",
+      "Y": "2.75",
+      "Z": "1",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "fenceFleaLabEntranceStreets",
+    "ZoneName": "fenceFleaLabEntranceStreets",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "208.1067",
+      "Y": "-7.583218",
+      "Z": "81.36439",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "2",
+      "Y": "2.5",
+      "Z": "3.25",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "fenceFleaTopTowerInterchange",
+    "ZoneName": "fenceFleaTopTowerInterchange",
+    "ZoneLocation": "Interchange",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "210.7971",
+      "Y": "35.14149",
+      "Z": "215.0804",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1.25",
+      "Y": "3",
+      "Z": "2.25",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "fenceFleaCellarsFactoryDay",
+    "ZoneName": "fenceFleaCellarsFactoryDay",
+    "ZoneLocation": "factory4_day",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "63.19502",
+      "Y": "-1.882056",
+      "Z": "-28.3427",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "2.5",
+      "Y": "1.75",
+      "Z": "3",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "fenceFleaBottomD2Reserve",
+    "ZoneName": "fenceFleaBottomD2Reserve",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-58.75396",
+      "Y": "-14.40172",
+      "Z": "187.2887",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "5.25",
+      "Y": "3",
+      "Z": "2.25",
+      "W": "0"
+    }
+  }
+]
